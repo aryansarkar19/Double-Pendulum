@@ -173,9 +173,4 @@ In compact form:
 y(i+1) = y(i) + Δt * (dy/dt)
 ```
 
-Final numerical simulation of the double pendulum is shown in **Appendix A(1)**.
 
----
-
-(End of exact PDF content transcription)
-*Please upload the PDF so I can recreate the README exactly as in your document, keeping the same structure, equations, explanation, and formatting.*
